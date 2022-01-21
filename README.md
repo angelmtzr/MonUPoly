@@ -1,17 +1,22 @@
-#MONUPOLY
-##COMPONENTES
+
+# MONUPOLY
+## COMPONENTES
 - tablero
 - dos dados
 - ficha por jugado (2-4)
 - 32 casas, 12 hoteles
 - 16 cartas suerte , 16 cartas arca
 - 28 propiedades
-##INSTRUCCIONES & REGLAS
+
+## INSTRUCCIONES & REGLAS
 1. Cada jugador elige su ficha
 2. Se da la cantidad inicial del dinero
-3. 
-##CASILLAS
-###CASILLAS ESPECIALES
+3. Se ordenan descendentemente de la combinación de dados
+4. Si lanzas dobles se te repite el turno
+5. 
+
+## CASILLAS
+### CASILLAS ESPECIALES
 - Salida -> entrada principal
 - Trenes -> cafetería (cafe, local, borra, güich)
 - Carcel -> Servicios Escolares
@@ -20,13 +25,12 @@
 - Luz -> UPanterasS wifi 
 - Agua -> Laboratorios
 - Ir a la Carcel -> Rectoría
-###ZONAS DEL TABLERO
+
+### ZONAS DEL TABLERO
 -lugares:
 -clases:
 -carrera:
-
-
-##CASAS Y HOTELES
+## CASAS Y HOTELES
 - Clases:
     Becario, Adjunto, Maestría, Doctorado, Director
 - Lugares: 
@@ -35,8 +39,8 @@
 - Carreras:
     toefl, licenciatura, maestria, especializacion, doctorado
 
-##CARACTERISTICAS & REGLAS
-###FINANZAS
+## CARACTERISTICAS & REGLAS
+### FINANZAS
 - materias:
     moneda: influencias
     inicio: 
@@ -55,23 +59,23 @@
     vuelta:
     inpuesto:
     precio-carcel:
-###BANCAROTA
+    
+### BANCAROTA
 - materias -> reprobaste el semestre
 - Carreras -> 
 - lugares -> bancarota
 
-###CARCEL
+### CARCEL
 3 veces numeros pares, te atraparon haciendo trampa -> carcel
 3 veces numeros pares, faltas acumuladas -> carcel 
 - materias:
 - Carreras:
 - Lugares:
 
-##TOKENS
-- Profesores
+## TOKENS
 - Cargos (estudiante, proferos, MIB, Guardias)
 - Accesorios (Casco, Gorrito-chef, regla t, compu, camara, bolifino)
-##Acciones
+## Acciones
 - Materias
     hipotecar -> dar de baja
     comprar -> inscribir 
@@ -84,7 +88,8 @@
     hipotar -> huelga
     comprar -> titularse
     subastar -> subastar 
-##Cartas
+
+## Cartas
 UPsite, Moodle, UP4U, 
 -Pagar
     seguros GMM, Orfandad
