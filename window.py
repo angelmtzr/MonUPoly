@@ -18,4 +18,4 @@ while loop:
     for event in pygame.event.get():
         #exit handleing
         if event.type == pygame.QUIT:
-            loop = False
+             loop = False
