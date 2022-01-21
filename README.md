@@ -1,6 +1,6 @@
 # MonUPoly
 ---
-## Componentss
+## Components
 - Board
 - Two dices
 - 32 houses, 12 hotels
