@@ -1,6 +1,5 @@
 # MonUPoly
 ---
----
 ## Componentss
 - Board
 - Two dices
