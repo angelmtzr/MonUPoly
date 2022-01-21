@@ -1,8 +1,8 @@
 # MonUPoly
 ---
 ---
-## Componentes
-- Tablero
+## Componentss
+- Board
 - Two dices
 - 32 houses, 12 hotels
 - 16 fortune cards, 16 arc cards
