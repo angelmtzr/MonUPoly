@@ -1,133 +1,105 @@
+# MonUPoly
+---
+---
+## Componentes
+- Tablero
+- Two dices
+- 32 houses, 12 hotels
+- 16 fortune cards, 16 arc cards
+- 28 properties
 
-# MONUPOLY
-## COMPONENTES
-- tablero
-- dos dados
-- ficha por jugado (2-4)
-- 32 casas, 12 hoteles
-- 16 cartas suerte , 16 cartas arca
-- 28 propiedades
+### Tokens
+| Topic | Tokens |
+|-------|--------|
+|Charges| - Student - Teacher - Men In Blue, Guards |
+|Accessories| - Helment - Chef hat - T rule - CPU - Camera - Pen|
 
-## INSTRUCCIONES & REGLAS
-1. Cada jugador elige su ficha
-2. Se da la cantidad inicial del dinero
-3. Se ordenan descendentemente de la combinación de dados
-4. Si lanzas dobles se te repite el turno
-5. 
+### Houses & Hotels
+| Topic | 1st house | 2nd house | 3th house | Hotel |
+|-------|-----------|-----------|-----------|-------|
+|Subjects|Internship|Masters|Doctorate|Director|
+|Places Classroom|Board|Workspaces|Plugs|Polycom|
+|Places Classroom|1 line |2 lines|3 lines|Polycom|
+|Places Office |Chairs|Desks|Bookshelf|Computer|
+|Places GYM|Weights|Treadmil|Dressing Room|Coaches|
+|Carreers|TOEFL|Bachelor|Masters|Speciality|
+### Cards
++ **Payment**
+    + Health Insurance
+    + UP restore
+    + Proof of Study
+    + Cafeteria meals
+    + Broke something
+    + Homework services
+    + Transportation
++ **Collect**
+    + Treasury Discount
+    + Internship
+    + Won a raffle
+    + Won a giveaway on IG
+    + You donated blood
+    + Credits refund
+    + Got paid for homework services
+    + Assesories
++ **Move**
+    + Plagiarism report -> go to Scholar Services
+    + Missing documents -> go to Scholar Services
+    + Payment out of date -> go to Treasury
+    + Your teacher is sick -> got to the Exit
+    + Day off -> go to the Exit
+    + You're hungre -> go to the closest cafeteria
+    + Issues with your UP account -> yo to the Labs
+    + Out of Network -> Internet services
+    + Forgot something in your car -> go the the Parking
+    + **Carrers**
+        * depending on the answers
+    + **Places**
+        * depending on the answers
+    + **Subjects**
+        * depending on th answers
++ **Keep**
+    + Photo with the principle -> get out of Scholar Services for free
 
-## CASILLAS
-### CASILLAS ESPECIALES
-- Salida -> entrada principal
-- Trenes -> cafetería (cafe, local, borra, güich)
-- Carcel -> Servicios Escolares
-- Parada Libre -> Estacionamiento vertical
-- Impuestos -> Tesorería / Banco ->  Semestre, Reinscripción
-- Luz -> UPanterasS wifi 
-- Agua -> Laboratorios
-- Ir a la Carcel -> Rectoría
+---
+## Board Boxes
+### Special Boxes
+|Monopoly|MonUPoly|
+|--------|--------|
+|Exit/Start| Main Entrance |
+|Train Stations| Cafe, Local, Borra, GÜICH |
+|Jail| Scholar Services|
+|Free Stop| Parking |
+|Taxes| Semester, tuition|
+|Light| Internet Services |
+|Water| Labs |
+|Go to Jail | Rectory |
+### Zones
 
-### ZONAS DEL TABLERO
--lugares:
--clases:
--carrera:
-## CASAS Y HOTELES
-- Clases:
-    Becario, Adjunto, Maestría, Doctorado, Director
-- Lugares: 
-    pizarron, 1raya, 2raya, 3rayas, polycom,
-    pizarron, sillas, mesas, enchufes, polycom,
-- Carreras:
-    toefl, licenciatura, maestria, especializacion, doctorado
+---
+## Rules
+### Jail
+In MonUPoly ***Scholar Services*** will play the rol of Jail. There are some ways a player can 
+go to Sholar Services:
+1.  If the player lands in the *go to jail* box
+2.  If the player roll *doubles* three times in a row
+3.  By a fortune card
 
-## CARACTERISTICAS & REGLAS
-### FINANZAS
-- materias:
-    moneda: influencias
-    inicio: 
-    vuelta:
-    inpuesto:
-    precio-carcel:
-- lugares:
-    moneda: dinero
-    inicio:
-    vuelta:
-    inpuesto:
-    precio-carcel:
-- Carreras: 
-    moneda: creditos
-    inicio:
-    vuelta:
-    inpuesto:
-    precio-carcel:
-    
-### BANCAROTA
-- materias -> reprobaste el semestre
-- Carreras -> 
-- lugares -> bancarota
+To get out of the jail:
+1. Roll a *double* 
+2. Pay a bail
+3. Wait 3 turns
 
-### CARCEL
-3 veces numeros pares, te atraparon haciendo trampa -> carcel
-3 veces numeros pares, faltas acumuladas -> carcel 
-- materias:
-- Carreras:
-- Lugares:
-
-## TOKENS
-- Cargos (estudiante, proferos, MIB, Guardias)
-- Accesorios (Casco, Gorrito-chef, regla t, compu, camara, bolifino)
-## Acciones
-- Materias
-    hipotecar -> dar de baja
-    comprar -> inscribir 
-    subastar -> ofertar materia
-- Lugares
-    hipotecar -> remodelar
-    comprar -> comprar
-    subastar -> subastar 
-- Carreras
-    hipotar -> huelga
-    comprar -> titularse
-    subastar -> subastar 
-
-## Cartas
-UPsite, Moodle, UP4U, 
--Pagar
-    seguros GMM, Orfandad
-    comprobante de estudio
-    renovacion UP card
-    Comida en la cafeteria (tienes hambre)
-    Rompiste algo
-    Pagas por servicios de tareas
-    Transporte
--Cobrar
-    Descuento con tesorería
-    Becario
-    Ganaste concurso de talento
-    Ganaste una rifa
-    Ganaste un giveaway en instagra
-    Compartiste una story en ig
-    Donaste sangre
-    Rembolso de creditos
-    Te pagaron por servicio de tarea (diste asesoria) 
-    te piden dar asesorias
--Mover
-    Reporte de plagio -> Servicio Escolares
-    Te faltarón documento -> Servicios Escolares
-    No pagaste a tiempo -> Dirigete a tesorería 
-    Tu profesor se enfermó -> dirigete a la salida
-    Día festivo -> dirigete a la salida
-    Tienes hambre -> direte a la cafeteria mas cercana, si dueño pagas, si no comprala
-    No cambiaste la contraseña -> laboratorios
-    Se te fue la conexión -> dirigete a servicios de internet
-    Se te olvido algo en el coche -> ve al estacionamiento vertical
-
-    Carreras:
-	Año nuevo, carrera nueva -> ve a carrera vacia mas cercana
-	Cobraste el seguro orfandad -> la carrera más cercana esta gratis (opcional*)
-    Lugares:
-	te saltaste una materia, ve a esconderte -> lugar vacio mas cercano
-    Materias:
-	
--Mantener
-    Te tomarón una foto con el rector -> vale para salir de la carcel
-
+### Finances
+#### Money
+|Topic|Currency|Start amount|Lap amount|Taxes|Bail|
+|-----|--------|------------|----------|-----|----|
+|Subjects | credits | ? | ? | ? | ? | 
+|Places| MXN | ? | ? | ? | ? |
+|Carreer| credits | ? | ? | ? | ? |
+#### Actions
+|Topic| Buy | mortage | auction|Bankrupt|
+|-----|-----|---------|--------|--------|
+|Subjects|enrrol|unenroll|offer|Fail
+|Places| adquire | remodel | auction| bankrupt
+|Carreer|graduate|strike or vacations|offer|unenroll
+---
