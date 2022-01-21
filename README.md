@@ -1,3 +1,4 @@
+
 # MONUPOLY
 ## COMPONENTES
 - tablero
@@ -6,12 +7,14 @@
 - 32 casas, 12 hoteles
 - 16 cartas suerte , 16 cartas arca
 - 28 propiedades
+
 ## INSTRUCCIONES & REGLAS
 1. Cada jugador elige su ficha
 2. Se da la cantidad inicial del dinero
 3. Se ordenan descendentemente de la combinación de dados
 4. Si lanzas dobles se te repite el turno
 5. 
+
 ## CASILLAS
 ### CASILLAS ESPECIALES
 - Salida -> entrada principal
@@ -22,6 +25,7 @@
 - Luz -> UPanterasS wifi 
 - Agua -> Laboratorios
 - Ir a la Carcel -> Rectoría
+
 ### ZONAS DEL TABLERO
 -lugares:
 -clases:
@@ -55,6 +59,7 @@
     vuelta:
     inpuesto:
     precio-carcel:
+    
 ### BANCAROTA
 - materias -> reprobaste el semestre
 - Carreras -> 
@@ -83,6 +88,7 @@
     hipotar -> huelga
     comprar -> titularse
     subastar -> subastar 
+
 ## Cartas
 UPsite, Moodle, UP4U, 
 -Pagar

@@ -20,7 +20,7 @@ except IOError:
         "Fullscreen" : "off"
         }
     #saves the settings file
-    with open("settings.ini", 'w') as configfile:
+    with open("settings.ini", 'w') as configfile::wqq
         config.write(configfile);
 
 #reads the config file

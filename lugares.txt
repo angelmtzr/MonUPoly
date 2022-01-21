@@ -1,0 +1,24 @@
+Salida -> entrada principal
+Trenes -> cafetería (cafe, local, borra, güich)
+Carcel -> Servicios Escolares
+Parada Libre -> Estacionamiento vertical
+Impuestos -> Semestre, Reinscripción
+
+Zonas
+-Cafe: 
+    -> Kiosko, IPADE
+-Celeste:
+    -> Comunicación, Derecho, Ingenierías
+-Rosa:
+    -> Coordinación, Pedadogía, Admisiones
+-Naranja:
+    -> Arte & Cultura, GYM, Cancha Basquet
+-Rojo:
+    ->Auditorio, Cortijo, Cancha Futbol
+-Amarillo:
+    ->CMD, Sala de Profesore, Empresariales
+-Verde:
+    ->ESDAI, Ing, Multimedios
+-Azul:
+    ->Central, Aula Magna
+
